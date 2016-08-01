@@ -1,4 +1,4 @@
-# NotePadd-Theme-File
+# Notepad++-Theme-File
 My Custom Notepad++ Theme File
 
 <h2>Description</h2>
